@@ -142,7 +142,7 @@ soilmoist=adc_val/10.24;
 
 
 ## Output screen shots on serial monitor   :
-![iot_ex05](https://github.com/user-attachments/assets/7cf07287-69c5-4876-afed-52dfc601b391)
+![image](https://github.com/user-attachments/assets/ed3d44b4-64e4-479f-98e9-3ac2fca5f7ac)
 
  
  
